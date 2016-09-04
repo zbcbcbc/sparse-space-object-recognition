@@ -1,0 +1,6 @@
+Version:1
+Patch Size:15
+Number of Patches:600
+Number of Clusters:154
+Image Width:160
+Image Height:50
